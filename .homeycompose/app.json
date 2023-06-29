@@ -1,0 +1,28 @@
+{
+  "id": "net.favoretti.ikea.dirigera",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "IKEA DIRIGERA Gateway"
+  },
+  "description": {
+    "en": "Adds support for IKEA DIRIGERA Gateway"
+  },
+  "category": [
+    "lights"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Vladimir Lazarenko",
+    "email": "vlad@lazarenko.net"
+  }
+}
